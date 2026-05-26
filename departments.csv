@@ -1,0 +1,11 @@
+department_id,department_name,floor,head_doctor_id,established_year
+DEPT01,Cardiology,3,D001,2001
+DEPT02,Neurology,4,D012,2003
+DEPT03,Orthopedics,2,D003,1999
+DEPT04,Pediatrics,1,D004,2005
+DEPT05,General Surgery,5,D005,1998
+DEPT06,Gynecology,2,D006,2007
+DEPT07,Dermatology,1,D007,2010
+DEPT08,Oncology,6,D008,2004
+DEPT09,Radiology,3,D009,2000
+DEPT10,ENT,1,D010,2008

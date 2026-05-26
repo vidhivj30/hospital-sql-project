@@ -1,0 +1,16 @@
+medication_id,admission_id,medication_name,dosage,frequency,start_date,end_date,cost_per_day
+M001,ADM001,Aspirin,75mg,Once daily,2024-01-10,2024-01-15,50
+M002,ADM001,Atorvastatin,40mg,Once daily,2024-01-10,2024-01-15,80
+M003,ADM001,Metoprolol,25mg,Twice daily,2024-01-10,2024-01-15,60
+M004,ADM002,Ibuprofen,400mg,Thrice daily,2024-01-12,2024-01-18,40
+M005,ADM002,Calcium,500mg,Once daily,2024-01-12,2024-01-18,30
+M006,ADM003,Amoxicillin,500mg,Thrice daily,2024-01-16,2024-01-19,90
+M007,ADM003,Paracetamol,650mg,Four times,2024-01-16,2024-01-19,20
+M008,ADM004,Oxaliplatin,85mg,Weekly,2024-01-18,2024-02-01,5000
+M009,ADM004,Leucovorin,400mg,Weekly,2024-01-18,2024-02-01,2000
+M010,ADM005,Clopidogrel,75mg,Once daily,2024-02-03,2024-02-08,120
+M011,ADM005,Nitroglycerin,0.5mg,As needed,2024-02-03,2024-02-08,200
+M012,ADM007,Carboplatin,300mg,Weekly,2024-02-07,2024-02-20,4500
+M013,ADM008,Donepezil,5mg,Once daily,2024-02-08,2024-02-14,150
+M014,ADM009,Levetiracetam,500mg,Twice daily,2024-02-11,2024-02-16,100
+M015,ADM011,Amiodarone,200mg,Once daily,2024-03-03,2024-03-07,180

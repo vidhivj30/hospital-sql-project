@@ -1,0 +1,13 @@
+doctor_id,first_name,last_name,specialization,experience_years,qualification,department_id,phone,email,join_date
+D001,Dr. Ramesh,Agarwal,Cardiology,18,MD,DEPT01,9911111111,ragarwal@hospital.com,2006-03-15
+D002,Dr. Sunita,Sharma,Neurology,12,DM,DEPT02,9922222222,ssharma@hospital.com,2012-07-20
+D003,Dr. Praveen,Kumar,Orthopedics,20,MS,DEPT03,9933333333,pkumar@hospital.com,2004-01-10
+D004,Dr. Anitha,Rajan,Pediatrics,9,MD,DEPT04,9944444444,arajan@hospital.com,2015-09-05
+D005,Dr. Vijay,Mishra,General Surgery,15,MS,DEPT05,9955555555,vmishra@hospital.com,2009-04-22
+D006,Dr. Shalini,Nair,Gynecology,11,MD,DEPT06,9966666666,snair@hospital.com,2013-11-18
+D007,Dr. Mohan,Das,Dermatology,7,MD,DEPT07,9977777777,mdas@hospital.com,2017-06-30
+D008,Dr. Kavya,Pillai,Oncology,14,DM,DEPT08,9988888888,kpillai@hospital.com,2010-02-14
+D009,Dr. Sunil,Verma,Radiology,16,MD,DEPT09,9999999999,sverma@hospital.com,2008-08-01
+D010,Dr. Rekha,Joshi,ENT,10,MS,DEPT10,9900000000,rjoshi@hospital.com,2014-05-25
+D011,Dr. Aryan,Mehta,Cardiology,5,MD,DEPT01,9911100000,amehta@hospital.com,2019-10-12
+D012,Dr. Poornima,Bhat,Neurology,22,DM,DEPT02,9922200000,pbhat@hospital.com,2002-06-08

@@ -1,0 +1,31 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason,fee
+A001,P001,D001,2024-01-10,10:00,Completed,Chest pain,800
+A002,P002,D002,2024-01-11,11:30,Completed,Migraine,900
+A003,P003,D003,2024-01-12,09:00,Completed,Knee pain,700
+A004,P004,D004,2024-01-13,14:00,Completed,Child fever,600
+A005,P005,D001,2024-01-14,10:30,Completed,Palpitations,800
+A006,P006,D006,2024-01-15,15:00,Completed,Irregular periods,750
+A007,P007,D005,2024-01-16,08:30,Completed,Appendix pain,700
+A008,P008,D007,2024-01-17,12:00,Completed,Skin rash,500
+A009,P009,D008,2024-01-18,11:00,Completed,Lump check,1000
+A010,P010,D002,2024-01-19,13:30,Cancelled,Headache,900
+A011,P011,D001,2024-01-20,09:30,Completed,High BP,800
+A012,P012,D006,2024-01-21,16:00,Completed,Pregnancy check,750
+A013,P013,D003,2024-02-01,10:00,Completed,Back pain,700
+A014,P014,D004,2024-02-02,11:00,Completed,Vaccination,600
+A015,P015,D009,2024-02-03,14:30,Completed,X-ray,550
+A016,P016,D010,2024-02-04,09:00,Completed,Ear infection,650
+A017,P017,D005,2024-02-05,10:30,Completed,Hernia,700
+A018,P018,D007,2024-02-06,15:30,No-Show,Acne,500
+A019,P019,D008,2024-02-07,11:30,Completed,Cancer screening,1000
+A020,P020,D002,2024-02-08,13:00,Completed,Memory loss,900
+A021,P021,D011,2024-02-09,09:30,Completed,ECG,800
+A022,P022,D006,2024-02-10,14:00,Completed,PCOD,750
+A023,P023,D012,2024-02-11,10:30,Completed,Seizures,900
+A024,P024,D001,2024-02-12,11:00,Cancelled,Chest pain,800
+A025,P025,D008,2024-02-13,15:00,Completed,Cancer checkup,1000
+A026,P001,D009,2024-03-01,09:00,Completed,CT Scan,550
+A027,P002,D004,2024-03-02,10:30,Completed,Child fever,600
+A028,P005,D011,2024-03-03,11:00,Completed,Heart checkup,800
+A029,P009,D008,2024-03-04,14:00,Completed,Chemotherapy,1000
+A030,P015,D001,2024-03-05,09:30,Completed,Heart valve,800

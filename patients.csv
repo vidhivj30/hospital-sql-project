@@ -1,0 +1,26 @@
+patient_id,first_name,last_name,dob,gender,blood_group,phone,city,state,registered_date
+P001,Aarav,Sharma,1985-03-12,Male,A+,9876543210,Mumbai,Maharashtra,2018-06-15
+P002,Priya,Verma,1990-07-24,Female,B+,9812345678,Delhi,Delhi,2019-01-10
+P003,Rohit,Gupta,1978-11-05,Male,O+,9823456789,Bangalore,Karnataka,2017-09-20
+P004,Sneha,Patel,1995-02-18,Female,AB+,9834567890,Ahmedabad,Gujarat,2020-03-05
+P005,Kiran,Nair,1982-08-30,Male,B-,9845678901,Chennai,Tamil Nadu,2016-12-01
+P006,Meera,Iyer,2000-05-14,Female,O-,9856789012,Hyderabad,Telangana,2021-07-22
+P007,Anil,Joshi,1970-01-22,Male,A-,9867890123,Pune,Maharashtra,2015-04-18
+P008,Divya,Singh,1988-09-09,Female,A+,9878901234,Kolkata,West Bengal,2019-11-30
+P009,Suresh,Rao,1963-12-31,Male,AB-,9889012345,Jaipur,Rajasthan,2014-08-07
+P010,Anjali,Mehta,1999-04-03,Female,B+,9890123456,Lucknow,Uttar Pradesh,2022-02-14
+P011,Vikram,Desai,1975-06-19,Male,O+,9801234567,Surat,Gujarat,2018-03-25
+P012,Pooja,Kulkarni,1993-10-27,Female,A+,9812398765,Nagpur,Maharashtra,2020-09-11
+P013,Rahul,Tiwari,1987-02-08,Male,B+,9823487654,Bhopal,Madhya Pradesh,2017-05-30
+P014,Lakshmi,Pillai,1980-07-16,Female,O+,9834576543,Kochi,Kerala,2016-01-19
+P015,Manoj,Yadav,1972-11-25,Male,AB+,9845665432,Patna,Bihar,2013-10-08
+P016,Ritika,Saxena,1997-03-07,Female,B-,9856754321,Agra,Uttar Pradesh,2021-04-27
+P017,Deepak,Choudhary,1968-09-14,Male,A+,9867843210,Varanasi,Uttar Pradesh,2012-07-15
+P018,Nisha,Pandey,1991-01-29,Female,O+,9878932109,Indore,Madhya Pradesh,2019-06-03
+P019,Sanjay,Kumar,1984,Male,A-,9889021098,Ranchi,Jharkhand,2018-08-21
+P020,Geeta,Bhatt,1960-05-11,Female,B+,9890110987,Dehradun,Uttarakhand,2011-12-05
+P021,Arjun,Menon,2001-08-23,Male,O+,9801209876,Coimbatore,Tamil Nadu,2022-05-18
+P022,Swati,Jain,1994-12-04,Female,AB+,9812308765,Udaipur,Rajasthan,2020-10-29
+P023,Nikhil,Bose,1979-04-17,Male,B+,9823407654,Kolkata,West Bengal,2017-02-14
+P024,Kavitha,Reddy,1986-10-06,Female,A+,9834506543,Hyderabad,Telangana,2018-07-09
+P025,Harish,Nambiar,1958-06-28,Male,O-,9845605432,Thiruvananthapuram,Kerala,2010-09-16
